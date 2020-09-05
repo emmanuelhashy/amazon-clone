@@ -6,6 +6,9 @@
     display: flex;
     z-index: 1;
     margin: 0px 5px;
+    flex-wrap: wrap;
+    margin: 0px auto;
+    justify-content: center;
 }
 
 .home__image{

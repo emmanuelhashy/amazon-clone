@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
-    width: 100%;
+    width: 25%;
     max-height: 400px;
     min-width: 100px;
     background-color: white;
@@ -30,6 +30,10 @@
     max-height: 200px;
     object-fit: contain;
     margin-bottom: 15px;
+}
+
+.fa{
+    color: #f0c14b;
 }
 
 .product > button {
